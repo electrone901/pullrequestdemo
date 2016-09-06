@@ -1,4 +1,4 @@
 Name: 
- Favorite Movie: 
- Favorite Food: 
- Favorite Candy:
+ Favorite Movie: Git is hard!
+ Favorite Food: Anything except JS
+ Favorite Candy: html
